@@ -1,0 +1,58 @@
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.exe
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.deps.json
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.runtimeconfig.json
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.runtimeconfig.dev.json
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.dll
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\ref\Project car racing.dll
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.pdb
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.csproj.AssemblyReference.cache
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project_car_racing.Form1.resources
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.csproj.GenerateResource.cache
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.GeneratedMSBuildEditorConfig.editorconfig
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.AssemblyInfoInputs.cache
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.AssemblyInfo.cs
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.csproj.CoreCompileInputs.cache
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.dll
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\ref\Project car racing.dll
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.pdb
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.genruntimeconfig.cache
+J:\CODE NGHỊCH\OOP\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project_car_racing.Properties.Resources.resources
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.csproj.AssemblyReference.cache
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project_car_racing.Form1.resources
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project_car_racing.Properties.Resources.resources
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.csproj.GenerateResource.cache
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.GeneratedMSBuildEditorConfig.editorconfig
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.AssemblyInfoInputs.cache
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.AssemblyInfo.cs
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.csproj.CoreCompileInputs.cache
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.dll
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\ref\Project car racing.dll
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.pdb
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.exe
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.deps.json
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.runtimeconfig.json
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.runtimeconfig.dev.json
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.dll
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\ref\Project car racing.dll
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.pdb
+G:\VIDEO HỌC ONLINE\HKI (2021 - 2022)\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG - MSIS2433.M11.CTTT\PROJECT CUỐI KỲ\PROJECT CUỐI KỲ\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.genruntimeconfig.cache
+C:\Users\jame1\Downloads\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.exe
+C:\Users\jame1\Downloads\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.deps.json
+C:\Users\jame1\Downloads\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.runtimeconfig.json
+C:\Users\jame1\Downloads\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.runtimeconfig.dev.json
+C:\Users\jame1\Downloads\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.dll
+C:\Users\jame1\Downloads\Project car racing\Project car racing\bin\Debug\net5.0-windows\ref\Project car racing.dll
+C:\Users\jame1\Downloads\Project car racing\Project car racing\bin\Debug\net5.0-windows\Project car racing.pdb
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.csproj.AssemblyReference.cache
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project_car_racing.Form1.resources
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project_car_racing.Properties.Resources.resources
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.csproj.GenerateResource.cache
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.AssemblyInfoInputs.cache
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.AssemblyInfo.cs
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.csproj.CoreCompileInputs.cache
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.dll
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\ref\Project car racing.dll
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.pdb
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project car racing.genruntimeconfig.cache
+C:\Users\jame1\Downloads\Project car racing\Project car racing\obj\Debug\net5.0-windows\Project_car_racing.Form2.resources
